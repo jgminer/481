@@ -1,0 +1,8 @@
+INDEX VERSION 1.126+/home/jack/Dropbox/14W/481/eclipse/.metadata/.plugins/org.eclipse.jdt.core
+2568032001.index
+1063882062.index
+2367546449.index
+1156065617.index
+1877398108.index
+2866552604.index
+1686274598.index
